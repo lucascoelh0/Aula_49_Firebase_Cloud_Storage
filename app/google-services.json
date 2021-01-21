@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29044885171",
+    "project_id": "aula-49-firebase-cloud-storage",
+    "storage_bucket": "aula-49-firebase-cloud-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29044885171:android:8956696503e6f16d4212c6",
+        "android_client_info": {
+          "package_name": "com.example.aula49_firebasecloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29044885171-nsmtn6bs74jfvm6p0u21c6tjvmn9ndbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmLljs-eM2ebFwzJne6b2P5kMd6s_hNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29044885171-nsmtn6bs74jfvm6p0u21c6tjvmn9ndbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
